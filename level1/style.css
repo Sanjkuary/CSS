@@ -1,0 +1,49 @@
+*{
+    font-family: "Times New Roman";
+}
+
+h1{
+    color:darkgoldenrod;
+    text-align:center;
+    text-decoration: aqua wavy underline;
+    text-transform: capitalize;
+} 
+
+p{
+    color:firebrick;
+    text-align:center;
+    /* text-decoration: underline; */
+} 
+
+button {
+    color:black;
+    background-color: green;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color:#FFFBDB;
+}
+
+/* #one{
+    font-family:cursive;
+} */
+
+#one{
+    font-size: 25px;
+    line-height: normal;
+    text-transform: none ;
+}
+#two{
+    font-size: 15px;
+}
+#three{
+    font-size: 10px;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px ;
+}
